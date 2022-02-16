@@ -1,0 +1,27 @@
+* {
+	font-family: Mochiy Pop P One;
+}
+
+html{
+	background-color: #f0f0f0;
+}
+
+h1{
+	font-size: 125px;
+	text-align: center;
+	margin: 0 auto;
+}
+
+.confeti{
+	margin-left: 206px; 
+}
+
+div p{
+	font-size: 50px;
+	text-align: center;
+}
+
+.regalo{
+	margin-top: 200px;
+	margin-left: 350px;
+}
